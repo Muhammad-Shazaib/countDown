@@ -1,5 +1,5 @@
 
-var targetDate = new Date('August 14, 2024 00:00:00').getTime();
+var targetDate = new Date('August 14, 2025 00:00:00').getTime();
 
 setInterval(Independent,1000);
 function Independent(){
